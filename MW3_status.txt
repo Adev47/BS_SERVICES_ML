@@ -1,9 +1,6 @@
-UA + WOOFER,online
-UA + WOOFER V2,online
 UA + WOOFER V3,online
 CHAIR + WOOFER V2,online
 AIO V3,online
 AIO + WOOFER,online
 AIO V2,online
 PRIVACY PROTECTOR,online
-SPOOFER BLOCKER V2,online
